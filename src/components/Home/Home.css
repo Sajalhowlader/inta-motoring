@@ -1,0 +1,33 @@
+.product-container {
+    width: 1170px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    height: 80vh;
+    align-items: center;
+    gap: 80px;
+}
+
+.product-img img {
+    width: 100%;
+}
+
+p.product-title {
+    color: magenta;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+button.info-btn {
+    border: none;
+    outline: none;
+    padding: 16px 16px;
+    margin-top: 19px;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #25123b;
+    color: white;
+    border-radius: 7px;
+}

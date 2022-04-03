@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Randall M. Thompson",
+        "review": "Hello !! I am Randall M. Thompson. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you. ",
+        "picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "reatting": 4.5
+    },
+    {
+        "id": 2,
+        "name": "David J. Stein",
+        "review": "Hello !! I am David J. Stein. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you.",
+        "picture": "https://images.unsplash.com/photo-1599423485026-a09cc94eb9c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "reatting": 5.0
+    },
+    {
+        "id": 3,
+        "name": "Gordon M. Luckett",
+        "review": "Hello !! I am Gordon M. Luckett. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you.",
+        "picture": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "reatting": 4.8
+    },
+    {
+        "id": 4,
+        "name": "Karin Kohl",
+        "review": "Hello !! I am Karin Kohl. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you.",
+        "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhhcHB5JTIwY3VzdG9tZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "reatting": 5.0
+    },
+    {
+        "id": 5,
+        "name": "Christen J. Dorris",
+        "review": "Hello !! I am Christen J. Dorris. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you.",
+        "picture": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "reatting": 5.0
+    },
+    {
+        "id": 6,
+        "name": "Patrick M. Barber",
+        "review": "Hello !! I am Patrick M. Barber. Recently i buy a car from Insta Motoring.There car is very awesome.There service is good enough.There car condition is mind blowing.You can buy car from here.Thank you.",
+        "picture": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "reatting": 4.5
+    }
+]
