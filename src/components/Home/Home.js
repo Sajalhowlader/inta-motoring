@@ -6,6 +6,7 @@ import './Home.css'
 const Home = () => {
     const [reviews,] = useReview()
     const newreview = reviews.slice(0, 3)
+
     return (
         <div>
             <div className='product-container'>
@@ -27,7 +28,7 @@ const Home = () => {
                             newreview.map(review => <ShowReview key={review.id} reviews={review} />)
                         }
                     </div>
-                    <button className='info-btn re-info-btn'>Explore More</button>
+                    <button className='info-btn re-info-btn'>See All Feedbacks</button>
                 </div>
             </div>
 
