@@ -19,9 +19,18 @@
     color: #c7c7c7;
 }
 
-.items-container a {
+.link {
     margin-left: 35px;
     text-decoration: none;
     color: #16bef1;
     font-weight: bold;
+}
+
+.active-link {
+    margin-left: 35px;
+    text-decoration: none;
+    color: #ce3409;
+    font-weight: bold;
+    border-bottom: 2px solid #16bef1;
+    padding-bottom: 3px;
 }
