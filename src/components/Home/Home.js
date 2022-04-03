@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import carImg from '../../images/car.png'
 import ShowReview from '../ShowReview/ShowReview';
@@ -6,7 +7,7 @@ import './Home.css'
 const Home = () => {
     const [reviews,] = useReview()
     const newreview = reviews.slice(0, 3)
-
+    const navigate = useNavigate()
     return (
         <div>
             <div className='product-container'>
@@ -28,7 +29,7 @@ const Home = () => {
                             newreview.map(review => <ShowReview key={review.id} reviews={review} />)
                         }
                     </div>
-                    <button className='info-btn re-info-btn'>See All Feedbacks</button>
+                    <button onClick={() => navigate('/Review')} className='info-btn re-info-btn'>See All Feedbacks</button >
                 </div>
             </div>
 
