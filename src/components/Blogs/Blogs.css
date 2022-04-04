@@ -1,0 +1,22 @@
+.api-container {
+    width: 1170px;
+    margin: auto;
+}
+
+.api-info h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.api-info p {
+    font-size: 19px;
+    padding: 18px 0px;
+    font-family: cursive;
+}
+
+.api-info {
+    background: #e1e1e1;
+    padding: 20px;
+    border-radius: 13px;
+    margin-bottom: 25px;
+}
