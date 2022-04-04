@@ -6,8 +6,8 @@ import carImg from '../../images/car.png'
 import ShowReview from '../ShowReview/ShowReview';
 import './Home.css'
 const Home = () => {
-    const [reviews,] = useReview()
-    const newreview = reviews.slice(0, 3)
+    const [reviews] = useReview()
+    const newreview = reviews.slice(0, 3);
     const navigate = useNavigate()
     return (
         <div>

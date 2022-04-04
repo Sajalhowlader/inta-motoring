@@ -2,7 +2,6 @@ import React from 'react';
 import './ShowReview.css'
 import { FaStar } from 'react-icons/fa';
 const ShowReview = ({ reviews }) => {
-    console.log(reviews)
     const { name, picture, review, reatting } = reviews
     return (
         <div className='feedback-info'>

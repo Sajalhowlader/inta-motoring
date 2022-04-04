@@ -1,6 +1,6 @@
 # INSTA MOTORING
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Insta Motoring](https://thriving-seahorse-9f1e8e.netlify.app/).
 
 ## Available Scripts
 

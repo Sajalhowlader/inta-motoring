@@ -3,6 +3,7 @@ import './Blogs.css'
 const Blogs = () => {
     return (
         <section className='api-container'>
+            <h1 className='img-title'>Question Answer</h1>
             <article className='api-info'>
                 <h1>Contex API</h1>
                 <p>The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application. When we create a common function and pass the function by props to other functions it's pretty boring. We need to write the same thing over and over again. Context API helps us a lot here. We can easily make that function pass in any other component by creating a function in the parent component. It is often the case that we need to send a function between the parent component to the child component and another child component. In this case, if we repeatedly send props, the duplication of our code increases a lot. We create a context between the parent components, whatever the code we send to the child component is DRY and there is no duplication of the code.</p>
