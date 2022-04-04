@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaArrowRight } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import carImg from '../../images/car.png'
@@ -29,7 +30,7 @@ const Home = () => {
                             newreview.map(review => <ShowReview key={review.id} reviews={review} />)
                         }
                     </div>
-                    <button onClick={() => navigate('/Review')} className='info-btn re-info-btn'>See All Feedbacks</button >
+                    <button onClick={() => navigate('/Review')} className='info-btn re-info-btn'  >See All Feedbacks <FaArrowRight /> </button >
                 </div>
             </div>
 

@@ -50,6 +50,7 @@ const Dashboard = () => {
                     <h1>Line Chart</h1>
                     <LineChart width={400} height={400} data={data}>
                         <h1>this is </h1>
+                        <CartesianGrid stroke="#222" strokeDasharray="5 5" />
                         <Line dataKey={'investment'}></Line>
                         <Line dataKey={'sell'}></Line>
                         <Line dataKey={'revenue'}></Line>
