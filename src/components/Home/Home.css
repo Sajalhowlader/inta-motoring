@@ -13,11 +13,22 @@
     width: 100%;
 }
 
-p.product-title {
-    color: magenta;
+.product-title {
+    color: #165285;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 50px;
+    font-family: cursive;
+}
+
+.product-details {
+    font-size: 20px;
+    font-weight: 500;
+    color: #524b4b;
+}
+
+.product-title span {
+    color: #ff258a;
 }
 
 button.info-btn {
@@ -31,6 +42,7 @@ button.info-btn {
     background: #25123b;
     color: white;
     border-radius: 7px;
+    display: flex;
 }
 
 .feedback-container {
